@@ -48,7 +48,7 @@ export default class Main extends Component {
       }
     }
     this.startObserving();
-    if (instance.plalette) this.checkColors(instance.plalette);
+    if (instance.palette) this.checkColors(instance.palette);
   }
 
   componentWillUnmount() {
