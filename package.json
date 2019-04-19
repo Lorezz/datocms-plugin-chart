@@ -25,6 +25,10 @@
     "docs"
   ],
   "author": "Lorezz <point.point@gmail.com>",
+  "contributors": [
+    "Lorezz <point.point@gmail.com>",
+    "LeanPanda"
+  ],
   "license": "ISC",
   "datoCmsPlugin": {
     "title": "Chart",
