@@ -3,7 +3,7 @@ import { render } from 'react-dom';
 
 import Main from './Main';
 
-window.DatoCmsPlugin.init((plugin) => {
+window.DatoCmsPlugin.init(plugin => {
   plugin.startAutoResizer();
 
   const container = document.createElement('div');
